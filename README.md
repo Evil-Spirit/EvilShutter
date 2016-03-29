@@ -1,6 +1,6 @@
 # EvilShutter
 Automatic arduino-powered low-cost sutters for plastic windows with clock and thermometer.
-![Screenshot](images/file0104.jpg)
+![Screenshot](images/FILE0104.JPG)
 
 https://www.youtube.com/watch?v=6iiUQaPl7bg
 
